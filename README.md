@@ -31,14 +31,14 @@
 
     ![Git](https://img.icons8.com/?size=50&id=20906&format=png&color=00000000)&nbsp;
     ![Jupyter](https://img.icons8.com/?size=50&id=0JUBXbNc9AaZ&format=png&color=00000000)&nbsp;
-    <img src='https://github.com/user-attachments/assets/981bce6c-8545-4882-a33c-86964dc785aa' width='5%'>&nbsp;
-    <img src='https://github.com/user-attachments/assets/ecfdaaa0-9c15-47b4-9ca7-b555fc713212' width='5%'>&nbsp;
+    <img src='https://github.com/user-attachments/assets/5240b067-26f7-4110-8ecb-b89fe1a73433' width='5%'>&nbsp;
+    <img src='https://github.com/user-attachments/assets/797328cf-df96-481e-acbe-8d9cf9fbd8ab' width='5%'>&nbsp;
     ![MongoDB](https://img.icons8.com/?size=50&id=74402&format=png&color=00000000)&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width='7%' style='object-fit:contain;position:absolute'/>&nbsp;
-    <img src='https://github.com/user-attachments/assets/1f0d6bf3-7e66-47ea-8148-401d7f791eef' width='10%' style='object-fit:cover;position:absolute'/>&nbsp;
-    <img src='https://github.com/user-attachments/assets/ac5bd21b-bf9a-42fe-9642-e456b41a5d8b' width='5%'/>&nbsp;
-    <img src='https://github.com/user-attachments/assets/e89d5815-ed08-4fc2-af86-7067feb7d7b4' width='5%'>&nbsp;
-    <img src='https://github.com/user-attachments/assets/951a005a-20e3-4d2a-9412-08cda4a4b245' width='15%'>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt='mysql' width='7%' style='object-fit:contain;position:absolute'/>&nbsp;
+    <img src='https://github.com/user-attachments/assets/d3cf6163-e3ac-4e0b-8618-5983176a56a6' width='5%' style='object-fit:cover;position:absolute'/>&nbsp;
+    <img src='https://github.com/user-attachments/assets/4c3bc5f2-b910-4224-9e78-ba8b9ed08261' width='5%'/>&nbsp;
+    <img src='https://github.com/user-attachments/assets/391d28ab-e875-49f2-993f-ad14f542677a' width='5%'>&nbsp;
+    <img src='https://github.com/user-attachments/assets/b11af07c-001b-4cab-b73b-227b3fac5421' width='5%'>
 
 
 - ### **Cloud:**
