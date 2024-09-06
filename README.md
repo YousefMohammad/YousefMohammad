@@ -9,8 +9,8 @@
 
 ## 📫 Contact Me
 
-[<img src='https://github.com/user-attachments/assets/3175ed10-00b2-4406-8a11-1297ffc1e69b' alt='Gmail' width='4%' style='object-fit:contain;position:absolute'>](ytmmng1@gmail.com)&nbsp;&nbsp;
-[<img src='https://github.com/user-attachments/assets/e71b5c76-1534-4162-95e9-2e8ea202e05b' alt='LinkedIn' width='4%' style='object-fit:contain;position:absolute'>](www.linkedin.com/in/yousef-mohammad-1a2b3c4d)
+[<img src='https://github.com/user-attachments/assets/bde3f6c4-1759-4ae0-b3db-a109214e4bb9' alt='Gmail' width='4%' style='object-fit:contain;position:absolute'>](ytmmng1@gmail.com)&nbsp;&nbsp;
+[<img src='https://github.com/user-attachments/assets/156c882b-3ce6-4823-b3c9-287bec633282' alt='LinkedIn' width='4%' style='object-fit:contain;position:absolute'>](www.linkedin.com/in/yousef-mohammad-1a2b3c4d)
 
 ## 🛠️ Skills:
 
