@@ -31,7 +31,6 @@
     ![Git](https://img.icons8.com/?size=50&id=20906&format=png&color=00000000)&nbsp;
     ![Jupyter](https://img.icons8.com/?size=50&id=0JUBXbNc9AaZ&format=png&color=00000000)&nbsp;
     <img src='https://github.com/user-attachments/assets/5240b067-26f7-4110-8ecb-b89fe1a73433' width='5%'>&nbsp;
-    <img src='https://github.com/user-attachments/assets/797328cf-df96-481e-acbe-8d9cf9fbd8ab' width='5%'>&nbsp;
     ![MongoDB](https://img.icons8.com/?size=50&id=74402&format=png&color=00000000)&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt='mysql' width='7%' style='object-fit:contain;position:absolute'/>&nbsp;
     <img src='https://github.com/user-attachments/assets/d3cf6163-e3ac-4e0b-8618-5983176a56a6' width='5%' style='object-fit:cover;position:absolute'/>&nbsp;
