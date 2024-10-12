@@ -7,8 +7,7 @@
 
 
 ## 📫 Contact Me
-[<img src='https://www.linkedin.com/in/yousef-mohamed-0612b6332' alt='LinkedIn' width='4%' style='object-fit:contain;position:absolute'>]
-
+My Gmail: ytmmng1@gmail.com
 
 ## 🛠️ Skills:
 
