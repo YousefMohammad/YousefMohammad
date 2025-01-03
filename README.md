@@ -7,7 +7,7 @@
 
 
 ## 📫 Contact Me
-My Gmail: ytmmng1@gmail.com
+My Gmail: ymanger34@gmail.com
 
 ## 🛠️ Skills:
 
